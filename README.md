@@ -1,5 +1,5 @@
 # mbds-in-bds
-Accompanying Python code to the paper [Single-cell mutational burden distributions in birth-death processes](https://arxiv.org/abs/2309.06355), coauthored with Dudley Stark and Weini Huang. Each file is briefly described below, with details in the paper.
+Accompanying Python code to the paper [Single-cell mutational burden distributions in birth–death processes](https://doi.org/10.1371/journal.pcbi.1013241), coauthored with Dudley Stark and Weini Huang. Each file is briefly described below, with details in the paper.
 
 ## dd.py (with folder 'wijs')
 
